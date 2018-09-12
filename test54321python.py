@@ -3,4 +3,4 @@ favorieten= ["Jan"]
 favorieten.append ("Piet")
 
 
-favorieten[1] = "Hans"
+favorieten[1] = "pietertje"
